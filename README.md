@@ -13,4 +13,6 @@
 
 > In addition to that, we also report on the olds. The past will be revisited, infusing our shared history with some much-needed garlic-flavored understanding.
 
-> Start your own Gárlic franchise today for free by creating a repository on your personal GitHub named "thegarlic". We'll later build a frontend linking up everyone's repositories, allowing us to share and promote diverse perspectives under one collective banner of shared 🧄 and 💩.
+> Start your own Gárlic franchise today for free by creating a repository on your personal GitHub named "thegarlic" or whatever you want. We'll later build a frontend linking up everyone's repositories, allowing us to share and promote diverse perspectives under one collective banner of shared 🧄 and 💩.
+
+> In the meantime, Gárlic franchises will be listed below for anyone, simply by sending an email to franchise@thegarlic.org with a link to your Gárlic franchise repo on GitHub. No restrictions on content. All voices included.
