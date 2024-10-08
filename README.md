@@ -16,3 +16,7 @@
 > Start your own Gárlic franchise today for free by creating a repository on your personal GitHub named "thegarlic" or whatever you want. We'll later build a frontend linking up everyone's repositories, allowing us to share and promote diverse perspectives under one collective banner of shared 🧄 and 💩.
 
 > In the meantime, Gárlic franchises will be listed below for anyone, simply by sending an email to franchise@thegarlic.org with a link to your Gárlic franchise repo on GitHub. No restrictions on content. All voices included.
+
+> All articles must adhere to the truth that all humans are part of one family. No one is to be blamed, shamed, or punished for their words or past actions. THE GÁRLIC is about inclusion. We must recognize that no one chose the environment they were born into, whether constructive or destructive. As such, THE GÁRLIC is focused on moving forward—learning from the past, sharing, communicating, and building a new world together.
+
+> At THE GÁRLIC, when we cook, we cook for everyone. There is enough nourishment on this planet to feed every mouth, mind, and heart. Let's use THE GÁRLIC to build an amazing future for all.
